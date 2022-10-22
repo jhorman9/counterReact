@@ -8,7 +8,7 @@ const Counter = () =>{
     return (
         <>
             <div className="counter">{counter}</div>
-            <button className="counterBtn" onClick={counterOn}>Counter</button>
+            <button className="counterBtn" onClick={counterOn}>Click me</button>
         </>
     )
 }
